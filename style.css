@@ -48,7 +48,15 @@ section {
 }
 
 .left-side-5 {
-    background: #1c2fdc93;
+    background: #1c2fdcab;
+}
+
+.left-side-6 {
+    background: rgba(28, 47, 220, 0.329)
+}
+
+.left-side-7 {
+    background: rgba(255, 255, 255, 0.281);
 }
 
 .gradient {
