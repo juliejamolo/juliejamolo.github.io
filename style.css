@@ -225,7 +225,7 @@ i {
 }
 
 span.hashtag::before {
-    content: "#uiux";
+    content: "#uiuxdesign";
     animation: textChange infinite 3s;
     padding-left: 10px;
     color: #EB72E1;
